@@ -1,0 +1,165 @@
+# Prompt to generate the system
+
+You are an advanced life management system architect. Your task is to design a fully integrated, structured, and scalable personal operating system.
+The system must function as a centralized dashboard with 4 main sections:
+PLANNER
+JOURNAL
+RESOURCES
+FINANCE
+All sections must be interconnected, logically structured, printable, and usable digitally (Notion-compatible structure preferred).
+────────────────────────
+I. MASTER DASHBOARD STRUCTURE
+────────────────────────
+Create a clean homepage dashboard with 4 main selectable tabs:
+• Planner
+• Journal
+• Resources
+• Finance
+Each tab should have clear navigation to its internal pages.
+Ensure alignment across all systems (goals, habits, finances, ideas).
+────────────────────────
+II. PLANNER SECTION
+────────────────────────
+Include previously defined components:
+Yearly Overview (12-month calendar)
+Yearly Goals Master Tab
+Top 3 Goals
+4 Sub-goals each
+Challenges
+Resolution strategies
+Vision Board
+Monthly Dashboard (12 pages)
+Weekly Planning System
+Quarterly Reflection Pages
+Empty Sketch Page
+Ensure goal alignment:
+Vision → Yearly Goals → Monthly → Weekly → Daily Top 3
+Habit tracking must flow:
+Weekly Input → Monthly Dashboard → Quarterly Average
+────────────────────────
+III. JOURNAL SECTION
+────────────────────────
+A. Daily Journal Page Template
+Include:
+Date
+Mood indicator
+Top 3 Intentions
+Main Reflection Entry
+Lessons Learned
+Gratitude Section
+Improvement Note
+Rating of the Day (1–10)
+B. Journal Tracker (Dashboard View)
+Create a tracking page that includes:
+Streak counter
+Monthly consistency percentage
+Mood trend summary
+Most common lesson themes
+Reflection frequency per month
+Design it to:
+Identify emotional patterns
+Track personal growth
+Connect insights to Planner goals
+────────────────────────
+IV. RESOURCES TRACKER SECTION
+────────────────────────
+Purpose:
+Capture insights from social media, books, podcasts, courses, or conversations and convert them into actionable ideas or lesson plans.
+Create a structured Resource Database with the following fields:
+Core Fields:
+Source Type (Social Media, Book, Podcast, Article, etc.)
+Platform / Creator
+Topic Category
+Insight Summary
+Why It Matters
+Possible Application (Idea / Lesson Plan / Strategy)
+Related Goal (linked to Planner goals)
+Action Step
+Priority Level
+Status (Captured / Developing / Implemented / Archived)
+Add Two Functional Views:
+Idea Incubator View
+Shows insights not yet developed
+Focus on turning insights into execution
+Lesson Plan Builder View
+Structured template:
+• Core Concept
+• Learning Objective
+• Key Takeaways
+• Application Exercise
+• Supporting Materials
+Ensure this tracker transforms passive consumption into active output.
+────────────────────────
+V. FINANCE TRACKER SECTION
+────────────────────────
+Create Finance Dashboard with the following sub-pages:
+Net Worth Tracker
+Assets
+Liabilities
+Monthly Net Worth Change
+Growth Chart
+Monthly Expense Tracker
+Income
+Fixed Expenses
+Variable Expenses
+Savings Rate
+Investment Contribution
+Budgeting Tracker (Goal-Based Budgeting)
+Create individual budgeting sub-pages for money-required goals such as:
+CFA Exam
+Master's Degree
+Certifications
+Major Purchases
+Each budgeting page must include:
+Total Target Cost
+Current Savings
+Monthly Allocation
+Remaining Gap
+Target Deadline
+Travel Fund Tracker
+Destination
+Budget Required
+Current Savings
+Funding Plan
+Retirement Tracker
+Target Retirement Age
+Required Corpus
+Current Investment Value
+Monthly Investment Rate
+Estimated Growth Projection
+Financial Freedom Tracker
+Annual Living Expense
+Target Passive Income
+Current Passive Income
+Gap to Freedom
+Milestone Progress Bar
+Ensure all finance sections:
+Align with yearly and life goals
+Connect to budgeting and savings strategy
+Encourage measurable progress
+────────────────────────
+SYSTEM DESIGN REQUIREMENTS
+────────────────────────
+Everything must connect:
+Resources → Planner Goals
+Planner Goals → Financial Allocation
+Journal Insights → Habit Adjustments
+Finance → Life Vision
+Include dashboard summaries:
+Goal Completion %
+Habit Consistency %
+Financial Progress %
+Idea Execution Rate %
+Structure must be:
+Clean
+Action-oriented
+Measurable
+Scalable
+Minimal but powerful
+Output format:
+Organized template layout
+Clear headings
+Structured database-style design
+Suitable for digital or printable use
+Design this as a high-performance personal operating system.
+
