@@ -9,5 +9,6 @@ Current Uploaded Projects:
 - Human Resource (HR) Control Tool
 - Organizational Development Tool
 - Lifelong Tracker: Claude AI
+- Dashboard creation: Claude AI
 
 *Project is in sub-branch
